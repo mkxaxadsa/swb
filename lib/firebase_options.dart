@@ -63,6 +63,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '866886173521',
     projectId: 'sweet-bonanza-app',
     storageBucket: 'sweet-bonanza-app.appspot.com',
-    iosBundleId: 'com.bagwu.bonana.game.sweetBonanzaApp',
+    iosBundleId: 'com.bagwu.bonana.game',
   );
 }
